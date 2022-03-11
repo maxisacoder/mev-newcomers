@@ -15,7 +15,7 @@ There are some selected intro to mev newcomers
 # twitter
 - https://twitter.com/edgararout
 - https://twitter.com/bertcmiller
-= https://twitter.com/pmcgoohanCrypto
+- https://twitter.com/pmcgoohanCrypto
 
 # Data
 - https://github.com/flashbots/mev-inspect-py
