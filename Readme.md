@@ -20,5 +20,5 @@ There are some selected intro to mev newcomers
 # Data
 - https://github.com/flashbots/mev-inspect-py
 - https://flashbots-explorer.marto.lol/ 
-- https://dashboard.flashbots.net (legacy data)
+- https://explore.flashbots.net/
 - https://dune.xyz/phabc/backrunning-bots-gas-consumption
